@@ -1,0 +1,10 @@
+{
+    "fileSize":  82733985,
+    "buildNumber":  "22",
+    "uploadedAt":  "2026-09-10T14:44:01Z",
+    "releaseNotes":  "UI/UX Redesign: new design system, reorganized settings, smooth page transitions, fixed locale strings",
+    "mandatory":  false,
+    "downloadUrl":  "https://github.com/Nidald1/nidal-pos-releases/releases/download/v1.9.0-22/NidalPOS-1.9.0-22.apk",
+    "version":  "1.9.0",
+    "minimumBuildNumber":  18
+}
